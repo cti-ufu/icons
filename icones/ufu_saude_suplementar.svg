@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="220"
+   height="220"
+   viewBox="0 0 219.99999 220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ufu_saude_suplementar.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9590909"
+     inkscape:cx="110"
+     inkscape:cy="110"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="1432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-832.36216)">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 0 0 L 0 220 L 220 220 L 220 0 L 0 0 z M 103.27539 30 L 103.28125 30 L 105.11133 30 L 116.71875 30 C 127.82355 30 136.82617 38.995909 136.82617 50.101562 L 136.82617 82.015625 L 168.74219 82.015625 C 179.84912 82.015625 188.84766 91.022486 188.84766 102.12305 L 188.84766 113.93164 L 136.32031 113.93164 C 136.04157 113.93164 135.76618 113.97947 135.51172 114.06445 C 135.25722 114.14936 135.02031 114.27017 134.80664 114.42773 C 134.593 114.58531 134.40239 114.78003 134.24609 114.99805 C 134.08978 115.21607 133.97112 115.45837 133.88867 115.72461 L 131.94727 121.99219 L 127.12695 87.623047 C 127.08445 87.320439 126.98921 87.03681 126.85156 86.779297 C 126.71383 86.521763 126.53164 86.288246 126.31836 86.09375 C 126.10512 85.899269 125.8609 85.742303 125.5918 85.628906 C 125.32269 85.5154 125.03183 85.44815 124.72656 85.433594 C 124.42186 85.420654 124.1241 85.462867 123.8457 85.550781 C 123.56731 85.638617 123.30679 85.772109 123.07617 85.945312 C 122.84558 86.118516 122.63988 86.331137 122.47852 86.574219 C 122.31713 86.8173 122.19557 87.089235 122.125 87.386719 L 115.70117 114.38477 L 112.01953 98.410156 C 111.95412 98.126744 111.84203 97.865064 111.69336 97.628906 C 111.5447 97.392759 111.35852 97.180117 111.14453 97.005859 C 110.93056 96.831617 110.68907 96.693358 110.42773 96.595703 C 110.16641 96.498038 109.88449 96.444178 109.59375 96.4375 C 109.30178 96.4303 109.01576 96.472678 108.75 96.558594 C 108.48426 96.64451 108.23886 96.772634 108.01758 96.9375 C 107.79631 97.102351 107.60004 97.303624 107.44141 97.533203 C 107.28279 97.762797 107.16176 98.024573 107.08398 98.304688 L 100.42188 122.32422 L 96.792969 79.949219 C 96.767528 79.65137 96.691265 79.365627 96.572266 79.105469 C 96.453198 78.845311 96.291175 78.608654 96.095703 78.404297 C 95.900252 78.199934 95.670628 78.026952 95.416016 77.896484 C 95.161451 77.76597 94.878519 77.677072 94.582031 77.638672 C 94.285346 77.599969 93.992395 77.614946 93.712891 77.675781 C 93.433365 77.736695 93.166943 77.844695 92.925781 77.992188 C 92.684609 78.139659 92.470698 78.329817 92.289062 78.550781 C 92.107427 78.77172 91.962187 79.023383 91.861328 79.304688 L 79.345703 114.19141 L 31.152344 114.19141 L 31.152344 102.12305 C 31.152344 91.022501 40.157201 82.015625 51.253906 82.015625 L 83.169922 82.015625 L 83.169922 50.101562 C 83.169922 38.996337 92.173123 30 103.27539 30 z M 92.820312 93.314453 L 96.740234 139.14453 C 96.836126 140.26972 97.72485 141.16467 98.849609 141.26953 C 98.922502 141.27491 98.994369 141.2793 99.066406 141.2793 C 100.10423 141.2793 101.02948 140.58765 101.3125 139.57031 L 109.30273 110.76758 L 113.36523 128.37891 C 113.60861 129.43503 114.54354 130.18333 115.62695 130.1875 L 115.63867 130.1875 C 116.71822 130.1875 117.65604 129.44556 117.90625 128.39453 L 123.98828 102.84961 L 128.67188 136.26367 C 128.82319 137.34623 129.70748 138.17509 130.79688 138.26367 C 131.88283 138.35231 132.8894 137.67226 133.21289 136.62891 L 138.01172 121.11523 L 188.5625 121.11523 C 187.01111 130.6742 178.72248 137.97266 168.7207 137.97266 L 136.80469 137.97266 L 136.80469 169.89453 C 136.80469 180.99976 127.80405 190 116.69922 190 L 105.08984 190 L 103.25391 190 C 92.151639 190 83.148438 181.00018 83.148438 169.89453 L 83.148438 137.97266 L 51.232422 137.97266 C 41.329507 137.97266 33.101311 130.80737 31.443359 121.375 L 81.111328 121.375 C 82.09629 121.375 82.974179 120.75556 83.306641 119.82812 L 92.820312 93.314453 z "
+       transform="translate(-7.6293945e-6,832.36216)"
+       id="rect4435" />
+    <g
+       transform="matrix(1.8390805,0,0,1.8390805,29.999991,-913.01664)"
+       id="layer1-6"
+       inkscape:label="Camada 1">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3356"
+         y="1073.4818"
+         x="933.04791"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1073.4818"
+           x="933.04791"
+           id="tspan3358"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g3445"
+       transform="matrix(0.68816066,0,0,0.57794746,53.134888,399.0819)">
+      <g
+         transform="scale(1.1921147,0.83884546)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.41114807px;line-height:125%;font-family:'Kelson Sans BG';-inkscape-font-specification:'Kelson Sans BG, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3433" />
+    </g>
+    <g
+       transform="scale(1.0417585,0.95991538)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.26152706px;line-height:125%;font-family:'Kelson Sans';-inkscape-font-specification:'Kelson Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3441" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.74852371px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3518" />
+    <g
+       transform="matrix(0.57471264,0,0,0.57471264,81.538393,407.5563)"
+       id="layer1-9"
+       inkscape:label="Camada 1">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3356-6" />
+    </g>
+    <g
+       id="g3597"
+       transform="matrix(2.1102437,0,0,2.1102437,29.999994,862.36256)"
+       style="fill:#ffffff">
+      <g
+         id="g3557"
+         style="fill:#ffffff" />
+      <g
+         id="g3561"
+         style="fill:#ffffff" />
+      <g
+         id="g3563"
+         style="fill:#ffffff" />
+      <g
+         id="g3565"
+         style="fill:#ffffff" />
+      <g
+         id="g3567"
+         style="fill:#ffffff" />
+      <g
+         id="g3569"
+         style="fill:#ffffff" />
+      <g
+         id="g3571"
+         style="fill:#ffffff" />
+      <g
+         id="g3573"
+         style="fill:#ffffff" />
+      <g
+         id="g3575"
+         style="fill:#ffffff" />
+      <g
+         id="g3577"
+         style="fill:#ffffff" />
+      <g
+         id="g3579"
+         style="fill:#ffffff" />
+      <g
+         id="g3581"
+         style="fill:#ffffff" />
+      <g
+         id="g3583"
+         style="fill:#ffffff" />
+      <g
+         id="g3585"
+         style="fill:#ffffff" />
+      <g
+         id="g3587"
+         style="fill:#ffffff" />
+      <g
+         id="g3589"
+         style="fill:#ffffff" />
+    </g>
+    <g
+       transform="matrix(0.53302611,0,0,0.53302611,-138.5561,307.92334)"
+       id="layer1-3"
+       inkscape:label="Camada 1"
+       style="fill:#000000">
+      <g
+         transform="matrix(0.31054775,0,0,0.31054775,20.000001,852.36216)"
+         id="g4185"
+         style="fill:#000000">
+        <g
+           id="g4139"
+           style="fill:#000000">
+          <g
+             id="g4141"
+             style="fill:#000000" />
+        </g>
+        <g
+           id="g4149"
+           style="fill:#000000" />
+        <g
+           id="g4151"
+           style="fill:#000000" />
+        <g
+           id="g4153"
+           style="fill:#000000" />
+        <g
+           id="g4155"
+           style="fill:#000000" />
+        <g
+           id="g4157"
+           style="fill:#000000" />
+        <g
+           id="g4159"
+           style="fill:#000000" />
+        <g
+           id="g4161"
+           style="fill:#000000" />
+        <g
+           id="g4163"
+           style="fill:#000000" />
+        <g
+           id="g4165"
+           style="fill:#000000" />
+        <g
+           id="g4167"
+           style="fill:#000000" />
+        <g
+           id="g4169"
+           style="fill:#000000" />
+        <g
+           id="g4171"
+           style="fill:#000000" />
+        <g
+           id="g4173"
+           style="fill:#000000" />
+        <g
+           id="g4175"
+           style="fill:#000000" />
+        <g
+           id="g4177"
+           style="fill:#000000" />
+      </g>
+      <g
+         transform="matrix(0.36372527,0,0,0.36372527,19.999788,852.36216)"
+         id="g5587"
+         style="fill:#000000">
+        <g
+           id="XMLID_211_"
+           style="fill:#000000" />
+        <g
+           id="g5551"
+           style="fill:#000000" />
+        <g
+           id="g5553"
+           style="fill:#000000" />
+        <g
+           id="g5555"
+           style="fill:#000000" />
+        <g
+           id="g5557"
+           style="fill:#000000" />
+        <g
+           id="g5559"
+           style="fill:#000000" />
+        <g
+           id="g5561"
+           style="fill:#000000" />
+        <g
+           id="g5563"
+           style="fill:#000000" />
+        <g
+           id="g5565"
+           style="fill:#000000" />
+        <g
+           id="g5567"
+           style="fill:#000000" />
+        <g
+           id="g5569"
+           style="fill:#000000" />
+        <g
+           id="g5571"
+           style="fill:#000000" />
+        <g
+           id="g5573"
+           style="fill:#000000" />
+        <g
+           id="g5575"
+           style="fill:#000000" />
+        <g
+           id="g5577"
+           style="fill:#000000" />
+        <g
+           id="g5579"
+           style="fill:#000000" />
+      </g>
+      <g
+         style="fill:#000000"
+         inkscape:label="Camada 1"
+         id="layer1-4"
+         transform="matrix(0.35333693,-0.13569772,0.13569772,0.35333693,-98.886859,488.84759)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="933.04791"
+           y="1073.4818"
+           id="text3356-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3358-9"
+             x="933.04791"
+             y="1073.4818" /></text>
+      </g>
+    </g>
+    <g
+       id="g4192"
+       transform="matrix(1.043422,0,0,1.043422,-4.7764195,-34.69608)">
+      <g
+         transform="matrix(0.29557701,0,0,-0.29557701,50.000159,960.79529)"
+         id="g4101">
+        <g
+           id="g4057">
+          <g
+             id="g4059" />
+        </g>
+        <g
+           id="g4065" />
+        <g
+           id="g4067" />
+        <g
+           id="g4069" />
+        <g
+           id="g4071" />
+        <g
+           id="g4073" />
+        <g
+           id="g4075" />
+        <g
+           id="g4077" />
+        <g
+           id="g4079" />
+        <g
+           id="g4081" />
+        <g
+           id="g4083" />
+        <g
+           id="g4085" />
+        <g
+           id="g4087" />
+        <g
+           id="g4089" />
+        <g
+           id="g4091" />
+        <g
+           id="g4093" />
+      </g>
+      <g
+         transform="matrix(3.511236,0,0,3.511236,54.406593,901.88197)"
+         id="g4170">
+        <g
+           id="g4123">
+          <g
+             id="g4125" />
+        </g>
+        <g
+           id="g4133" />
+        <g
+           id="g4135" />
+        <g
+           id="g4137" />
+        <g
+           id="g4139-5" />
+        <g
+           id="g4141-3" />
+        <g
+           id="g4143" />
+        <g
+           id="g4145" />
+        <g
+           id="g4147" />
+        <g
+           id="g4149-9" />
+        <g
+           id="g4151-1" />
+        <g
+           id="g4153-2" />
+        <g
+           id="g4155-3" />
+        <g
+           id="g4157-8" />
+        <g
+           id="g4159-1" />
+        <g
+           id="g4161-3" />
+      </g>
+    </g>
+    <g
+       id="g4237"
+       transform="matrix(0.52174589,0,0,0.52174589,-239.3468,677.75755)">
+      <g
+         id="Guides_For_Artboard_20_" />
+      <g
+         id="Artwork_19_" />
+    </g>
+    <g
+       id="g4250"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4252"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4254"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4256"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4258"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4260"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4262"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4264"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4266"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4268"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4270"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4272"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4274"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4276"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4278"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       transform="matrix(1.1224479,0,0,1.1224479,-737.54912,-139.16926)"
+       id="layer1-5"
+       inkscape:label="Camada 1"
+       style="fill:#000000">
+      <g
+         transform="matrix(0.31054775,0,0,0.31054775,20.000001,852.36216)"
+         id="g4185-1"
+         style="fill:#000000">
+        <g
+           id="g4139-2"
+           style="fill:#000000">
+          <g
+             id="g4141-4"
+             style="fill:#000000" />
+        </g>
+        <g
+           id="g4149-1"
+           style="fill:#000000" />
+        <g
+           id="g4151-7"
+           style="fill:#000000" />
+        <g
+           id="g4153-8"
+           style="fill:#000000" />
+        <g
+           id="g4155-9"
+           style="fill:#000000" />
+        <g
+           id="g4157-1"
+           style="fill:#000000" />
+        <g
+           id="g4159-9"
+           style="fill:#000000" />
+        <g
+           id="g4161-5"
+           style="fill:#000000" />
+        <g
+           id="g4163-4"
+           style="fill:#000000" />
+        <g
+           id="g4165-5"
+           style="fill:#000000" />
+        <g
+           id="g4167-4"
+           style="fill:#000000" />
+        <g
+           id="g4169-5"
+           style="fill:#000000" />
+        <g
+           id="g4171-9"
+           style="fill:#000000" />
+        <g
+           id="g4173-6"
+           style="fill:#000000" />
+        <g
+           id="g4175-1"
+           style="fill:#000000" />
+        <g
+           id="g4177-7"
+           style="fill:#000000" />
+      </g>
+      <g
+         transform="matrix(0.36372527,0,0,0.36372527,19.999788,852.36216)"
+         id="g5587-5"
+         style="fill:#000000">
+        <g
+           id="XMLID_211_-6"
+           style="fill:#000000" />
+        <g
+           id="g5551-2"
+           style="fill:#000000" />
+        <g
+           id="g5553-5"
+           style="fill:#000000" />
+        <g
+           id="g5555-5"
+           style="fill:#000000" />
+        <g
+           id="g5557-4"
+           style="fill:#000000" />
+        <g
+           id="g5559-1"
+           style="fill:#000000" />
+        <g
+           id="g5561-1"
+           style="fill:#000000" />
+        <g
+           id="g5563-1"
+           style="fill:#000000" />
+        <g
+           id="g5565-2"
+           style="fill:#000000" />
+        <g
+           id="g5567-7"
+           style="fill:#000000" />
+        <g
+           id="g5569-8"
+           style="fill:#000000" />
+        <g
+           id="g5571-0"
+           style="fill:#000000" />
+        <g
+           id="g5573-9"
+           style="fill:#000000" />
+        <g
+           id="g5575-4"
+           style="fill:#000000" />
+        <g
+           id="g5577-2"
+           style="fill:#000000" />
+        <g
+           id="g5579-6"
+           style="fill:#000000" />
+      </g>
+      <g
+         style="fill:#000000"
+         inkscape:label="Camada 1"
+         id="layer1-4-9"
+         transform="matrix(0.35333693,-0.13569772,0.13569772,0.35333693,-98.886859,488.84759)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="933.04791"
+           y="1073.4818"
+           id="text3356-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3358-7"
+             x="933.04791"
+             y="1073.4818" /></text>
+      </g>
+    </g>
+  </g>
+</svg>

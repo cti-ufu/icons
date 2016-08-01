@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="220"
+   height="220"
+   viewBox="0 0 220 220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ufu_execucao_orcamentaria.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3349">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.39899998;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect3351"
+         width="750"
+         height="425"
+         x="0"
+         y="627.36218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4233">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4235"
+         width="749.70001"
+         height="425"
+         x="682.74182"
+         y="1260.0605" />
+    </clipPath>
+    <clipPath
+       id="clipPath3426"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="832.36218"
+         x="-1151.7051"
+         height="220"
+         width="220"
+         id="rect3428"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0e4097;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3349-0">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.39899998;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect3351-4"
+         width="750"
+         height="425"
+         x="0"
+         y="627.36218" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4233-8">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4235-0"
+         width="749.70001"
+         height="425"
+         x="682.74182"
+         y="1260.0605" />
+    </clipPath>
+    <clipPath
+       id="clipPath3426-1"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="832.36218"
+         x="-1151.7051"
+         height="220"
+         width="220"
+         id="rect3428-5"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.6;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0e4097;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9590909"
+     inkscape:cx="110"
+     inkscape:cy="110"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5782"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="1432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-832.36216)">
+    <g
+       id="g4157"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4159"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4161"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4163"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4165"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4167"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4169"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4171"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4173"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4175"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4177"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4179"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4181"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4183"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4185"
+       transform="translate(-30.443675,816.45148)" />
+    <g
+       id="g4505"
+       transform="matrix(2.1648564,0,0,2.1648564,550.54342,-937.62931)">
+      <g
+         id="g4568">
+        <g
+           transform="translate(-257.94306,799.68535)"
+           id="g4297">
+          <g
+             id="g4299" />
+        </g>
+        <g
+           style="fill:#ffffff"
+           id="g4674"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4676"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4678"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4680"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4682"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4684"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4686"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4688"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4690"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4692"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4694"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4696"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4698"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4700"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="fill:#ffffff"
+           id="g4702"
+           transform="matrix(0.11252005,0,0,0.11252005,-492.41701,993.65995)" />
+        <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="text3356"
+           transform="matrix(0.56260074,0,0,0.56260074,-492.41701,459.80764)" />
+        <g
+           transform="matrix(0.4619244,0,0,0.4619244,-409.39825,448.33394)"
+           id="layer1-0"
+           inkscape:label="Camada 1">
+          <g
+             inkscape:label="Camada 1"
+             id="layer1-5" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3356-4"
+             y="858.47327"
+             x="1066.7316"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="858.47327"
+               x="1066.7316"
+               id="tspan3358"
+               sodipodi:role="line" /></text>
+          <g
+             transform="translate(-9.5070929,391.19816)"
+             id="g4538">
+            <g
+               id="g3568"
+               transform="matrix(3.7093018,0,0,3.7093018,-103.01405,786.59238)">
+              <g
+                 id="g3518"
+                 style="fill:#800000"
+                 transform="matrix(0.80877754,0,0,0.80877754,126.76277,-95.7601)" />
+              <g
+                 id="g3532" />
+              <g
+                 id="g3534" />
+              <g
+                 id="g3536" />
+              <g
+                 id="g3538" />
+              <g
+                 id="g3540" />
+              <g
+                 id="g3542" />
+              <g
+                 id="g3544" />
+              <g
+                 id="g3546" />
+              <g
+                 id="g3548" />
+              <g
+                 id="g3550" />
+              <g
+                 id="g3552" />
+              <g
+                 id="g3554" />
+              <g
+                 id="g3556" />
+              <g
+                 id="g3558" />
+              <g
+                 id="g3560" />
+              <g
+                 id="layer1-5-8"
+                 inkscape:label="Camada 1"
+                 transform="matrix(0.26959252,0,0,0.26959252,111.40087,-320.7707)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.04388762px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="398.98373"
+                 y="-89.332726"
+                 id="text3356-1"
+                 sodipodi:linespacing="125%"><tspan
+                   sodipodi:role="line"
+                   id="tspan3358-1"
+                   x="398.98373"
+                   y="-89.332726" /></text>
+              <g
+                 id="g4652"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4654"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4656"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4658"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4660"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4662"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4664"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4666"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4668"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4670"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4672"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4674-5"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4676-4"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4678-6"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g4680-8"
+                 transform="matrix(0.36363184,0,0,0.36363184,63.629232,-91.43368)" />
+              <g
+                 id="g5594"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5596"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5598"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5600"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5602"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5604"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5606"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5608"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5610"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5612"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5614"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5616"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5618"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5620"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5622"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5624"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5626"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5628"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5630"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5632"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5634"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5636"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5638"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5640"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5642"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5644"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5646"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5648"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5650"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5652"
+                 transform="matrix(0.04156053,0.04156053,-0.04156053,0.04156053,177.10547,-85.812562)" />
+              <g
+                 id="g5782"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)">
+                <path
+                   style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+                   d="M 0 0 L 0 220 L 220 220 L 220 0 L 0 0 z M 38.205078 48.431641 L 117.59766 48.431641 C 122.12316 48.431641 125.80469 52.112223 125.80469 56.636719 L 125.80469 163.36523 C 125.80469 167.88922 122.12316 171.56836 117.59766 171.56836 L 38.205078 171.56836 C 33.680582 171.56836 30 167.88922 30 163.36523 L 30 56.636719 C 30 52.112223 33.680582 48.431641 38.205078 48.431641 z M 153.71289 48.431641 L 174.93555 48.431641 L 185.58008 59.03125 L 174.91406 59.03125 L 170.9668 62.980469 L 170.9668 82.378906 L 168.64844 84.695312 L 156.00977 84.695312 L 153.71289 82.400391 L 153.71289 48.431641 z M 148.2207 53.923828 L 148.2207 84.738281 L 153.71289 90.232422 L 166.31055 90.232422 L 173.34766 83.193359 L 173.34766 64.009766 L 176.07422 61.263672 L 187.76758 61.263672 L 190 63.451172 L 177.16797 63.451172 L 175.66602 64.953125 L 175.66602 84.375 L 160.30078 99.738281 L 153.66992 99.738281 L 138.69336 84.738281 L 138.69336 63.451172 L 148.2207 53.923828 z M 47.736328 61.958984 C 44.359265 61.958984 41.623047 64.696467 41.623047 68.072266 L 41.623047 77.107422 C 41.623047 80.484485 44.359518 83.220703 47.736328 83.220703 L 108.06836 83.220703 C 111.44643 83.220703 114.18164 80.484232 114.18164 77.107422 L 114.18164 68.072266 C 114.18164 64.696467 111.44618 61.958984 108.06836 61.958984 L 47.736328 61.958984 z M 178.2832 65.662109 L 189.91406 65.662109 L 189.91406 84.695312 L 174.89258 99.738281 L 163.45508 99.738281 L 163.43359 99.716797 L 177.875 85.275391 L 177.875 66.070312 L 178.2832 65.662109 z M 56.082031 95.953125 C 54.313093 95.953125 52.878906 97.387565 52.878906 99.15625 L 52.878906 107.15625 L 44.878906 107.15625 C 43.109968 107.15625 41.675781 108.59044 41.675781 110.35938 C 41.675781 112.12831 43.109968 113.5625 44.878906 113.5625 L 52.878906 113.5625 L 52.878906 121.56445 C 52.878906 123.33339 54.313093 124.76758 56.082031 124.76758 C 57.850969 124.76758 59.285156 123.33339 59.285156 121.56445 L 59.285156 113.5625 L 67.285156 113.5625 C 69.054094 113.5625 70.488281 112.12831 70.488281 110.35938 C 70.488281 108.59044 69.054094 107.15625 67.285156 107.15625 L 59.285156 107.15625 L 59.285156 99.15625 C 59.285156 97.387565 57.850969 95.953125 56.082031 95.953125 z M 88.607422 107.15625 C 86.837978 107.15625 85.402344 108.59044 85.402344 110.35938 C 85.402344 112.12831 86.837978 113.5625 88.607422 113.5625 L 111.01172 113.5625 C 112.78066 113.5625 114.21484 112.12831 114.21484 110.35938 C 114.21484 108.59044 112.78066 107.15625 111.01172 107.15625 L 88.607422 107.15625 z M 164.3457 120.26172 C 178.51601 120.26172 190 131.74881 190 145.91602 C 190 160.08322 178.51601 171.56836 164.3457 171.56836 C 150.1785 171.56836 138.69336 160.08322 138.69336 145.91602 C 138.69336 131.74881 150.1785 120.26172 164.3457 120.26172 z M 162.83594 129.88086 L 162.83594 132.68359 C 160.58742 132.99986 158.94052 133.86854 157.89453 135.28711 C 156.84854 136.70879 156.32227 138.30836 156.32227 140.08398 C 156.32227 141.43682 156.6175 142.6275 157.20312 143.64844 C 157.78875 144.66627 158.55272 145.4578 159.49219 146.02148 C 160.43166 146.59128 161.73715 147.16102 163.40625 147.74023 C 165.26324 148.39781 166.46332 148.94024 167.00195 149.36914 C 167.54048 149.79503 167.81055 150.42407 167.81055 151.25391 C 167.81055 152.05559 167.54058 152.73975 167.00195 153.30664 C 166.46332 153.87353 165.61761 154.1543 164.47461 154.1543 C 162.02888 154.1543 160.58766 152.83365 160.15234 150.1875 L 155.45508 151.41211 C 156.40387 155.62093 158.86201 157.93084 162.83594 158.33789 L 162.83594 161.94922 L 165.875 161.94922 L 165.875 158.32031 C 168.2582 158.06979 170.07975 157.23578 171.3418 155.82031 C 172.60384 154.40795 173.23633 152.64133 173.23633 150.52148 C 173.23633 149.14049 172.92904 147.93581 172.31836 146.90234 C 171.70457 145.87208 170.88848 145.06024 169.86133 144.47461 C 168.83728 143.88898 167.42097 143.26705 165.61719 142.60938 C 163.97625 142.00501 162.90224 141.5009 162.4043 141.09375 C 161.90325 140.68349 161.65234 140.09613 161.65234 139.33203 C 161.65234 138.58356 161.9137 137.94602 162.43359 137.41992 C 162.95028 136.89382 163.63799 136.63086 164.49609 136.63086 C 166.20578 136.63086 167.46589 137.80717 168.2832 140.16211 L 172.4668 138.44727 C 171.4679 135.01196 169.26962 133.09075 165.875 132.68359 L 165.875 129.88086 L 162.83594 129.88086 z M 91.212891 135.14258 C 89.045461 135.14258 87.291016 136.89981 87.291016 139.06445 C 87.291016 141.23062 89.045461 142.98438 91.212891 142.98438 C 93.377539 142.98437 95.132812 141.23037 95.132812 139.06445 C 95.132812 136.89955 93.377539 135.14258 91.212891 135.14258 z M 48.160156 135.86523 C 47.34048 135.86523 46.521909 136.17756 45.896484 136.80273 C 44.64513 138.05384 44.643683 140.08118 45.894531 141.33203 L 51.552734 146.99023 L 45.894531 152.64844 C 44.643683 153.89929 44.64513 155.92663 45.896484 157.17773 C 46.521782 157.80303 47.340417 158.11523 48.160156 158.11523 C 48.979896 158.11523 49.799978 157.80329 50.425781 157.17773 L 56.082031 151.51953 L 61.738281 157.17773 C 62.363579 157.80329 63.184167 158.11523 64.003906 158.11523 C 64.823646 158.11523 65.644233 157.80303 66.269531 157.17773 C 67.52038 155.92663 67.519874 153.89929 66.269531 152.64844 L 60.611328 146.99023 L 66.269531 141.33203 C 67.519874 140.08118 67.52038 138.05384 66.269531 136.80273 C 65.018683 135.55214 62.98913 135.55189 61.738281 136.80273 L 56.082031 142.46094 L 50.425781 136.80273 C 49.800357 136.17731 48.979832 135.86523 48.160156 135.86523 z M 106.92969 136.58594 C 106.10995 136.58597 105.29119 136.89801 104.66602 137.52344 L 88.822266 153.36914 C 87.570911 154.61999 87.570911 156.64759 88.822266 157.89844 C 89.447563 158.52399 90.268151 158.83594 91.087891 158.83594 C 91.90763 158.83594 92.726265 158.52374 93.351562 157.89844 L 109.19531 142.05273 C 110.44667 140.80189 110.44667 138.77429 109.19531 137.52344 C 108.56989 136.89814 107.74943 136.58591 106.92969 136.58594 z M 108.40625 150.98828 C 106.2411 150.98828 104.48633 152.7445 104.48633 154.91016 C 104.48633 157.07531 106.2411 158.83008 108.40625 158.83008 C 110.57368 158.83008 112.32617 157.07531 112.32617 154.91016 C 112.32617 152.74424 110.57368 150.98828 108.40625 150.98828 z "
+                   transform="matrix(3.7220383,0,0,3.7220383,-53.301899,-116.19242)"
+                   id="rect6579" />
+                <g
+                   id="g5586"
+                   transform="matrix(0.66246875,0,0,0.66246875,358.13656,237.72155)">
+                  <g
+                     id="g5588" />
+                </g>
+                <g
+                   id="g4894"
+                   transform="matrix(1.6749172,0,0,1.6749172,21.138869,-41.751652)"
+                   style="fill:#01420a;fill-opacity:1">
+                  <g
+                     id="XMLID_9_"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4858"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4860"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4862"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4864"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4866"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4868"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4870"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4872"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4874"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4876"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4878"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4880"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4882"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4884"
+                     style="fill:#01420a;fill-opacity:1" />
+                  <g
+                     id="g4886"
+                     style="fill:#01420a;fill-opacity:1" />
+                </g>
+                <g
+                   id="g6055"
+                   transform="matrix(1.2962592,0,0,1.2962592,58.359256,-4.5312648)" />
+                <g
+                   transform="matrix(1.3202842,0,0,1.3202842,66.420808,-215.33199)"
+                   id="g6194" />
+                <g
+                   id="g6198"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6200"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6202"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6204"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6206"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6208"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6210"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6212"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6214"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6216"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6218"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6220"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6222"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6224"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   id="g6226"
+                   transform="matrix(1.6254557,0,0,1.6254557,65.162974,-157.47158)" />
+                <g
+                   transform="matrix(-0.5057168,0,0,0.5057168,754.23508,285.04661)"
+                   id="g6306">
+                  <g
+                     id="g6270" />
+                  <g
+                     id="g6272" />
+                  <g
+                     id="g6274" />
+                  <g
+                     id="g6276" />
+                  <g
+                     id="g6278" />
+                  <g
+                     id="g6280" />
+                  <g
+                     id="g6282" />
+                  <g
+                     id="g6284" />
+                  <g
+                     id="g6286" />
+                  <g
+                     id="g6288" />
+                  <g
+                     id="g6290" />
+                  <g
+                     id="g6292" />
+                  <g
+                     id="g6294" />
+                  <g
+                     id="g6296" />
+                  <g
+                     id="g6298" />
+                </g>
+                <g
+                   id="g6537"
+                   transform="matrix(1.0261513,0,0,1.0261513,46.755761,165.95772)">
+                  <g
+                     id="g6369"
+                     transform="matrix(0.9171328,0,0,0.9171328,-38.265097,-116.19242)">
+                    <g
+                       id="g6329" />
+                    <g
+                       id="g6333" />
+                    <g
+                       id="g6335" />
+                    <g
+                       id="g6337" />
+                    <g
+                       id="g6339" />
+                    <g
+                       id="g6341" />
+                    <g
+                       id="g6343" />
+                    <g
+                       id="g6345" />
+                    <g
+                       id="g6347" />
+                    <g
+                       id="g6349" />
+                    <g
+                       id="g6351" />
+                    <g
+                       id="g6353" />
+                    <g
+                       id="g6355" />
+                    <g
+                       id="g6357" />
+                    <g
+                       id="g6359" />
+                    <g
+                       id="g6361" />
+                  </g>
+                  <g
+                     transform="matrix(2.1391025,0,0,2.1391025,405.5551,-2164.3005)"
+                     id="layer1-2"
+                     inkscape:label="Camada 1"
+                     style="fill:#000000">
+                    <text
+                       sodipodi:linespacing="125%"
+                       id="text3356-5"
+                       y="1073.4818"
+                       x="933.04791"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                       xml:space="preserve"><tspan
+                         y="1073.4818"
+                         x="933.04791"
+                         id="tspan3358-5"
+                         sodipodi:role="line" /></text>
+                  </g>
+                  <g
+                     id="g6446"
+                     transform="matrix(0.36348029,0,0,0.36348029,405.55509,161.25092)">
+                    <g
+                       id="g6406" />
+                    <g
+                       id="g6410" />
+                    <g
+                       id="g6412" />
+                    <g
+                       id="g6414" />
+                    <g
+                       id="g6416" />
+                    <g
+                       id="g6418" />
+                    <g
+                       id="g6420" />
+                    <g
+                       id="g6422" />
+                    <g
+                       id="g6424" />
+                    <g
+                       id="g6426" />
+                    <g
+                       id="g6428" />
+                    <g
+                       id="g6430" />
+                    <g
+                       id="g6432" />
+                    <g
+                       id="g6434" />
+                    <g
+                       id="g6436" />
+                    <g
+                       id="g6438" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g5786"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5788"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5790"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5792"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5794"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5796"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5798"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5800"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5802"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5804"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5806"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5808"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5810"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5812"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="g5814"
+                 transform="matrix(0.07243142,0,0,0.07243142,124.70993,-93.591804)" />
+              <g
+                 id="text3356-10"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 transform="matrix(0.0517746,0,0,0.0517746,176.35854,-121.53397)" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g4315"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4317"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4319"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4321"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4323"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4325"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4327"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4329"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4331"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4333"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4335"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4337"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4339"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4341"
+         transform="translate(-257.94306,799.68535)" />
+      <g
+         id="g4343"
+         transform="translate(-257.94306,799.68535)" />
+    </g>
+  </g>
+</svg>

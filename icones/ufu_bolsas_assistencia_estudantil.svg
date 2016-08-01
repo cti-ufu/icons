@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="220"
+   height="220"
+   viewBox="0 0 220 220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ufu_bolsas_assistencia_estudantil.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9590909"
+     inkscape:cx="148.52535"
+     inkscape:cy="137.03533"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-832.36216)">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 0 0 L 0 220 L 220 220 L 220 0 L 0 0 z M 131.83203 30.005859 C 134.2147 29.904271 136.00059 31.054926 136.93359 33.228516 C 140.02568 40.501115 131.90453 60.091622 122.47656 73.193359 C 127.77794 73.303024 133.369 73.187382 137.80859 70.324219 C 139.95985 68.919139 141.99073 67.233998 144.21875 65.947266 C 148.0826 63.713761 151.69203 62.696853 156.16406 62.705078 C 157.45354 62.721528 155.3086 65.950002 154.46875 66.146484 C 146.81644 66.117697 142.20741 72.277247 135.28711 74.162109 C 132.8786 74.819184 130.49449 75.215769 128.09375 75.457031 C 134.34144 76.338918 141.27971 75.117174 147.23633 74.974609 C 151.98024 74.867686 158.81765 74.287005 161.89648 78.712891 C 162.2337 79.20958 157.94903 81.119567 157.15625 79.972656 C 152.9963 73.991816 139.54033 77.138056 133.39453 77.371094 C 131.88253 77.435522 130.32228 77.469575 128.76367 77.453125 C 141.25631 80.608728 151.6913 87.942401 159.09961 98.925781 C 168.90592 113.45956 172.30391 132.84317 168.18555 150.7793 C 163.3836 173.9181 148.66139 190 110 190 C 93.530185 190 71.224816 183.2856 61.511719 171.0918 C 51.318382 158.29209 47.722942 141.13001 51.65625 124.00586 C 56.475558 102.98998 65.963223 81.552669 97.970703 76.796875 C 79.882419 65.397683 73.737778 45.969142 78.314453 41.212891 C 84.172378 35.346284 91.818021 34.558594 98.525391 34.558594 C 100.56561 34.558594 102.64655 34.638455 104.74023 34.720703 C 106.81427 34.790614 108.9155 34.871094 111.00781 34.871094 C 115.99847 34.871094 121.80495 34.479053 126.95508 31.589844 C 128.75889 30.578358 130.40243 30.066812 131.83203 30.005859 z M 126.08984 39.398438 C 122.2269 40.297231 118.43625 40.472656 115.21484 40.472656 C 113.05993 40.472656 110.90845 40.399067 108.76953 40.308594 C 106.73205 40.235941 104.71017 40.166016 102.73438 40.166016 C 97.303229 40.166016 91.740024 40.711504 87.359375 44.193359 C 98.514563 58.089709 107.50651 51.918418 118.89062 44.109375 C 121.23928 42.482225 123.64798 40.848754 126.08984 39.398438 z M 107.08008 97.429688 L 107.08008 105.93359 C 99.345516 107.22033 94.337891 112.56807 94.337891 119.625 C 94.337891 127.02234 99.692949 131.01088 108.34961 134.4082 C 114.64756 136.9739 117.41602 139.857 117.41602 144.52734 C 117.42653 149.37544 113.87614 152.86328 107.84961 152.86328 C 103.08513 152.86328 98.667934 151.16052 95.699219 149.20117 L 93.650391 154.89844 C 96.625503 157.01634 101.64225 158.54749 106.57031 158.63477 L 106.57031 167.13672 L 111.92969 167.13672 L 111.93555 158.29297 C 120.69136 156.9345 125.35451 150.64604 125.34766 143.8418 C 125.34766 136.2827 120.9284 131.94616 112.17578 128.37109 C 104.78164 125.2324 102.1875 123.02171 102.1875 118.69727 C 102.1875 115.21267 104.10191 111.30078 110.64844 111.30078 C 116.09786 111.30078 119.57329 113.2531 121.35352 114.27344 L 123.48242 108.66211 C 120.92769 107.22002 117.44992 105.85494 112.42773 105.68359 L 112.4375 97.429688 L 107.08008 97.429688 z "
+       transform="translate(0,832.36216)"
+       id="rect3399" />
+    <g
+       id="g3379"
+       transform="matrix(0.45693639,0,0,0.45693639,30.000026,862.36223)">
+      <g
+         id="g3337">
+        <g
+           id="g3339" />
+      </g>
+      <g
+         id="g3343" />
+      <g
+         id="g3345" />
+      <g
+         id="g3347" />
+      <g
+         id="g3349" />
+      <g
+         id="g3351" />
+      <g
+         id="g3353" />
+      <g
+         id="g3355" />
+      <g
+         id="g3357" />
+      <g
+         id="g3359" />
+      <g
+         id="g3361" />
+      <g
+         id="g3363" />
+      <g
+         id="g3365" />
+      <g
+         id="g3367" />
+      <g
+         id="g3369" />
+      <g
+         id="g3371" />
+    </g>
+  </g>
+</svg>

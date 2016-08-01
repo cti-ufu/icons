@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="220"
+   height="220"
+   viewBox="0 0 220 220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ufu_estagiario.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9590909"
+     inkscape:cx="144.65845"
+     inkscape:cy="123.48977"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-832.36216)">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 0 0 L 0 220 L 220 220 L 220 0 L 0 0 z M 118.79688 30 L 123.98242 40.847656 L 135.23633 37.623047 L 133.42969 47.054688 L 142.65234 50.304688 L 137.50391 57.398438 C 138.3486 59.91648 138.9043 62.569191 138.9043 65.365234 C 138.9043 79.366838 127.55927 90.695313 113.56836 90.695312 C 99.5721 90.695313 88.228516 79.366838 88.228516 65.365234 C 88.228516 63.948501 88.356467 62.542957 88.570312 61.179688 C 88.757429 60.094416 89.082501 59.062033 89.392578 58.019531 L 82.080078 51.394531 L 90.783203 48.953125 L 86.277344 38.875 L 98.230469 42.798828 L 101.73242 31.394531 L 109.18555 40.023438 L 118.79688 30 z M 99.962891 94.505859 C 99.962891 94.505859 103.56503 106.26745 113.11328 105.7168 C 122.65084 105.1608 126.11523 94.505859 126.11523 94.505859 L 144.68359 97.960938 C 144.68359 97.960938 153.42971 107.26829 156.15625 120.19531 C 157.40725 124.50967 157.33822 128.48098 156.4668 132.04688 L 170.31836 132.04688 L 184.03711 190 L 35.962891 190 L 49.675781 132.04688 L 72.359375 132.04688 C 69.018022 125.93621 67.649969 119.82606 69.863281 114.14844 C 73.167211 104.242 79.21875 97.960938 79.21875 97.960938 L 99.962891 94.505859 z M 85.003906 112.29297 C 83.875866 113.68832 81.652021 116.5444 80.326172 118.73633 C 80.117671 119.07848 80.036496 119.52727 80.009766 120.03516 L 84.207031 120.03516 L 85.003906 112.29297 z M 142.06445 113.48047 L 141.42188 118.07812 L 141.24609 120.03516 L 145.56445 120.03516 C 145.56445 120.02446 145.56055 120.01265 145.56055 120.00195 C 144.60358 117.52133 143.37426 115.27143 142.06445 113.48047 z M 83.748047 123.47266 L 89.841797 154.18164 L 139.36914 154.18164 L 144.69336 123.47266 L 83.748047 123.47266 z M 114.19336 135.28125 A 3.5551992 3.5551992 0 0 1 117.75 138.83789 A 3.5551992 3.5551992 0 0 1 114.19336 142.39258 A 3.5551992 3.5551992 0 0 1 110.63867 138.83789 A 3.5551992 3.5551992 0 0 1 114.19336 135.28125 z M 55.134766 138.93945 L 44.683594 183.10938 L 175.32227 183.10938 L 164.87109 138.93945 L 153.56836 138.93945 C 150.89528 143.25915 147.17944 146.48698 143.88086 148.40625 L 142.2832 157.62891 L 87.013672 157.62891 L 84.998047 147.48242 L 82.695312 145.72852 C 80.626348 143.50451 78.648073 141.2383 76.894531 138.93945 L 55.134766 138.93945 z "
+       transform="translate(0,832.36216)"
+       id="rect3888" />
+    <g
+       id="g3485"
+       transform="matrix(0.56430217,0,0,0.56430217,30.000194,872.57161)">
+      <g
+         id="g3415">
+        <g
+           id="g3417">
+          <g
+             id="g3419" />
+          <g
+             id="g3427" />
+        </g>
+      </g>
+      <g
+         id="g3449" />
+      <g
+         id="g3451" />
+      <g
+         id="g3453" />
+      <g
+         id="g3455" />
+      <g
+         id="g3457" />
+      <g
+         id="g3459" />
+      <g
+         id="g3461" />
+      <g
+         id="g3463" />
+      <g
+         id="g3465" />
+      <g
+         id="g3467" />
+      <g
+         id="g3469" />
+      <g
+         id="g3471" />
+      <g
+         id="g3473" />
+      <g
+         id="g3475" />
+      <g
+         id="g3477" />
+    </g>
+    <g
+       id="g3621"
+       transform="matrix(0,-0.10893246,-0.10893246,0,165.76498,914.10372)">
+      <g
+         id="g3580">
+        <g
+           id="reply">
+          <g
+             id="g3676">
+            <g
+               transform="matrix(0,-1.8947074,-1.8947074,0,28.961248,682.40826)"
+               id="g3389"
+               style="">
+              <g
+                 id="g3337">
+                <g
+                   id="g3339">
+                  <g
+                     id="g3341">
+                    <g
+                       id="g3343" />
+                  </g>
+                  <g
+                     id="g3347">
+                    <g
+                       id="g3349" />
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g3353" />
+              <g
+                 id="g3355" />
+              <g
+                 id="g3357" />
+              <g
+                 id="g3359" />
+              <g
+                 id="g3361" />
+              <g
+                 id="g3363" />
+              <g
+                 id="g3365" />
+              <g
+                 id="g3367" />
+              <g
+                 id="g3369" />
+              <g
+                 id="g3371" />
+              <g
+                 id="g3373" />
+              <g
+                 id="g3375" />
+              <g
+                 id="g3377" />
+              <g
+                 id="g3379" />
+              <g
+                 id="g3381" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3585" />
+      <g
+         id="g3587" />
+      <g
+         id="g3589" />
+      <g
+         id="g3591" />
+      <g
+         id="g3593" />
+      <g
+         id="g3595" />
+      <g
+         id="g3597" />
+      <g
+         id="g3599" />
+      <g
+         id="g3601" />
+      <g
+         id="g3603" />
+      <g
+         id="g3605" />
+      <g
+         id="g3607" />
+      <g
+         id="g3609" />
+      <g
+         id="g3611" />
+      <g
+         id="g3613" />
+    </g>
+    <g
+       id="g3766"
+       transform="matrix(0.36363636,0,0,0.36363636,30.000001,862.36216)">
+      <g
+         id="g3722" />
+      <g
+         id="g3730" />
+      <g
+         id="g3732" />
+      <g
+         id="g3734" />
+      <g
+         id="g3736" />
+      <g
+         id="g3738" />
+      <g
+         id="g3740" />
+      <g
+         id="g3742" />
+      <g
+         id="g3744" />
+      <g
+         id="g3746" />
+      <g
+         id="g3748" />
+      <g
+         id="g3750" />
+      <g
+         id="g3752" />
+      <g
+         id="g3754" />
+      <g
+         id="g3756" />
+      <g
+         id="g3758" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50825405px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3856" />
+    <g
+       id="g3938"
+       transform="matrix(5.3461641,0,0,5.3461641,30.002673,862.36216)">
+      <g
+         id="g3892">
+        <g
+           id="g3894" />
+      </g>
+      <g
+         id="g3902" />
+      <g
+         id="g3904" />
+      <g
+         id="g3906" />
+      <g
+         id="g3908" />
+      <g
+         id="g3910" />
+      <g
+         id="g3912" />
+      <g
+         id="g3914" />
+      <g
+         id="g3916" />
+      <g
+         id="g3918" />
+      <g
+         id="g3920" />
+      <g
+         id="g3922" />
+      <g
+         id="g3924" />
+      <g
+         id="g3926" />
+      <g
+         id="g3928" />
+      <g
+         id="g3930" />
+    </g>
+  </g>
+</svg>

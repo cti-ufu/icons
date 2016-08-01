@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="62.08889mm"
+   height="62.08889mm"
+   viewBox="0 0 220 220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ufu_postos_atendimento_estudante.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9590909"
+     inkscape:cx="110"
+     inkscape:cy="85.02339"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-255.16926,-346.10076)">
+    <g
+       transform="translate(-185.30977,-160.23845)"
+       id="layer1-5"
+       inkscape:label="Camada 1"
+       style="fill:#ffffff">
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 0 0 L 0 220 L 220 220 L 220 0 L 0 0 z M 110 30 C 119.59184 30 127.37603 37.50802 127.39062 46.75 C 127.39062 55.97741 119.59184 63.484375 110 63.484375 C 100.40816 63.484375 92.623047 55.963738 92.623047 46.736328 C 92.623047 37.508928 100.42274 30 110 30 z M 99.634766 67.039062 C 102.76888 68.555103 106.2828 69.431641 110 69.431641 C 113.73177 69.431651 117.2457 68.555102 120.36523 67.039062 C 135.01537 71.135272 145.71484 83.659158 145.71484 98.455078 C 145.71484 100.10231 144.38746 101.42773 142.74023 101.42773 L 77.259766 101.42773 C 75.612536 101.42773 74.285156 100.10231 74.285156 98.455078 C 74.285156 83.659158 84.984616 71.135272 99.634766 67.039062 z M 168.95703 88.283203 C 169.80276 88.283203 170.49023 88.972629 170.49023 89.818359 C 170.49023 90.035789 170.44568 90.241697 170.36328 90.429688 C 173.27812 91.011307 175.54422 93.365776 176.00977 96.322266 C 176.04763 96.562396 175.97843 96.806034 175.82031 96.990234 C 175.66175 97.175694 175.431 97.277344 175.1875 97.277344 L 162.72656 97.277344 C 162.48306 97.277344 162.25036 97.175274 162.0918 96.990234 C 161.93327 96.806034 161.86454 96.566722 161.90234 96.326172 C 162.36874 93.369682 164.6383 91.013261 167.55273 90.431641 C 167.47028 90.244071 167.42383 90.036209 167.42383 89.818359 C 167.42383 88.973049 168.11172 88.283203 168.95703 88.283203 z M 162.00977 98.488281 L 175.9043 98.488281 C 176.27522 98.488281 176.60288 98.73628 176.70508 99.09375 L 177.21289 100.87305 C 177.25078 101.00594 177.22393 101.14679 177.14062 101.25781 C 177.05693 101.36801 176.92436 101.42773 176.78516 101.42773 L 161.12695 101.42773 C 160.98816 101.42773 160.85754 101.36689 160.77344 101.25586 C 160.68974 101.14442 160.66287 101.00636 160.70117 100.87305 L 161.21094 99.09375 C 161.31272 98.73712 161.638 98.488281 162.00977 98.488281 z M 38.572266 104.28516 L 67.142578 104.28516 L 152.85742 104.28516 L 181.42773 104.28516 L 181.42773 110.23633 L 152.85742 110.23633 L 152.85742 190 L 67.142578 190 L 67.142578 110.23633 L 38.572266 110.23633 L 38.572266 104.28516 z M 103.25391 130.86133 L 103.25391 152.41992 L 104.70898 153.875 L 112.73242 153.875 L 114.20117 152.4043 L 114.20117 140.0957 L 116.70703 137.58984 L 123.47461 137.58984 L 116.71875 130.86133 L 103.25391 130.86133 z M 99.765625 134.34961 L 93.71875 140.39648 L 93.71875 153.9043 L 103.22461 163.42383 L 107.43359 163.42383 L 117.18164 153.67188 L 117.18164 141.34766 L 118.13672 140.39648 L 126.28125 140.39648 L 124.86328 139.00586 L 117.44141 139.00586 L 115.71094 140.75 L 115.71094 152.92383 L 111.24805 157.38867 L 103.25391 157.38867 L 99.765625 153.9043 L 99.765625 134.34961 z M 118.8457 141.79688 L 118.58594 142.05664 L 118.58594 154.24414 L 109.42188 163.41016 L 109.43359 163.42383 L 116.69336 163.42383 L 126.22461 153.875 L 126.22461 141.79688 L 118.8457 141.79688 z "
+         transform="translate(440.47903,506.33921)"
+         id="rect6146" />
+    </g>
+    <g
+       id="g4250"
+       transform="matrix(0.09753267,0,0,0.09753267,404.01726,498.02478)">
+      <g
+         id="g4208" />
+      <g
+         id="g4214" />
+      <g
+         id="g4216" />
+      <g
+         id="g4218" />
+      <g
+         id="g4220" />
+      <g
+         id="g4222" />
+      <g
+         id="g4224" />
+      <g
+         id="g4226" />
+      <g
+         id="g4228" />
+      <g
+         id="g4230" />
+      <g
+         id="g4232" />
+      <g
+         id="g4234" />
+      <g
+         id="g4236" />
+      <g
+         id="g4238" />
+      <g
+         id="g4240" />
+      <g
+         id="g4242" />
+    </g>
+    <g
+       id="g293773"
+       transform="matrix(0.08019764,0,0,0.08019764,372.33747,506.43793)"
+       style="fill:#ff0000">
+      <g
+         id="g293733"
+         style="fill:#ff0000" />
+      <g
+         id="g293737"
+         style="fill:#ff0000" />
+      <g
+         id="g293739"
+         style="fill:#ff0000" />
+      <g
+         id="g293741"
+         style="fill:#ff0000" />
+      <g
+         id="g293743"
+         style="fill:#ff0000" />
+      <g
+         id="g293745"
+         style="fill:#ff0000" />
+      <g
+         id="g293747"
+         style="fill:#ff0000" />
+      <g
+         id="g293749"
+         style="fill:#ff0000" />
+      <g
+         id="g293751"
+         style="fill:#ff0000" />
+      <g
+         id="g293753"
+         style="fill:#ff0000" />
+      <g
+         id="g293755"
+         style="fill:#ff0000" />
+      <g
+         id="g293757"
+         style="fill:#ff0000" />
+      <g
+         id="g293759"
+         style="fill:#ff0000" />
+      <g
+         id="g293761"
+         style="fill:#ff0000" />
+      <g
+         id="g293763"
+         style="fill:#ff0000" />
+      <g
+         id="g293765"
+         style="fill:#ff0000" />
+    </g>
+    <g
+       id="g294015"
+       transform="matrix(3.0461685,0,0,3.0461685,285.16926,376.10076)"
+       style="fill:#ffffff">
+      <g
+         id="g293975"
+         style="fill:#ffffff" />
+      <g
+         id="g293979"
+         style="fill:#ffffff" />
+      <g
+         id="g293981"
+         style="fill:#ffffff" />
+      <g
+         id="g293983"
+         style="fill:#ffffff" />
+      <g
+         id="g293985"
+         style="fill:#ffffff" />
+      <g
+         id="g293987"
+         style="fill:#ffffff" />
+      <g
+         id="g293989"
+         style="fill:#ffffff" />
+      <g
+         id="g293991"
+         style="fill:#ffffff" />
+      <g
+         id="g293993"
+         style="fill:#ffffff" />
+      <g
+         id="g293995"
+         style="fill:#ffffff" />
+      <g
+         id="g293997"
+         style="fill:#ffffff" />
+      <g
+         id="g293999"
+         style="fill:#ffffff" />
+      <g
+         id="g294001"
+         style="fill:#ffffff" />
+      <g
+         id="g294003"
+         style="fill:#ffffff" />
+      <g
+         id="g294005"
+         style="fill:#ffffff" />
+      <g
+         id="g294007"
+         style="fill:#ffffff" />
+    </g>
+    <g
+       id="g293956"
+       transform="matrix(0.30124439,0,0,0.30124489,-142.35334,148.02629)">
+      <g
+         id="g293920" />
+      <g
+         id="g293922" />
+      <g
+         id="g293924" />
+      <g
+         id="g293926" />
+      <g
+         id="g293928" />
+      <g
+         id="g293930" />
+      <g
+         id="g293932" />
+      <g
+         id="g293934" />
+      <g
+         id="g293936" />
+      <g
+         id="g293938" />
+      <g
+         id="g293940" />
+      <g
+         id="g293942" />
+      <g
+         id="g293944" />
+      <g
+         id="g293946" />
+      <g
+         id="g293948" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.09542465px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text294183"
+       transform="translate(22.165899,-37.849463)" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.06061077px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text294187"
+       transform="translate(12.165899,-37.849463)" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.24942398px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text294191"
+       transform="translate(12.165899,-37.849463)" />
+    <g
+       id="g294254"
+       transform="matrix(0.10204082,0,0,0.10204082,339.04681,374.97831)"
+       style="fill:#ff0000">
+      <g
+         id="g294256"
+         style="fill:#ff0000" />
+    </g>
+    <g
+       id="g294329"
+       transform="matrix(0.29438703,0,0,0.29438703,399.73721,413.26137)"
+       style="fill:#ff0000">
+      <g
+         id="g294273"
+         style="fill:#ff0000">
+        <g
+           id="g294275"
+           style="fill:#ff0000" />
+      </g>
+      <g
+         id="g294293"
+         style="fill:#ff0000" />
+      <g
+         id="g294295"
+         style="fill:#ff0000" />
+      <g
+         id="g294297"
+         style="fill:#ff0000" />
+      <g
+         id="g294299"
+         style="fill:#ff0000" />
+      <g
+         id="g294301"
+         style="fill:#ff0000" />
+      <g
+         id="g294303"
+         style="fill:#ff0000" />
+      <g
+         id="g294305"
+         style="fill:#ff0000" />
+      <g
+         id="g294307"
+         style="fill:#ff0000" />
+      <g
+         id="g294309"
+         style="fill:#ff0000" />
+      <g
+         id="g294311"
+         style="fill:#ff0000" />
+      <g
+         id="g294313"
+         style="fill:#ff0000" />
+      <g
+         id="g294315"
+         style="fill:#ff0000" />
+      <g
+         id="g294317"
+         style="fill:#ff0000" />
+      <g
+         id="g294319"
+         style="fill:#ff0000" />
+      <g
+         id="g294321"
+         style="fill:#ff0000" />
+    </g>
+    <g
+       transform="matrix(0.26196654,0,0,0.26196654,353.77372,193.81262)"
+       id="layer1-7"
+       inkscape:label="Camada 1">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3356"
+         y="1073.4818"
+         x="933.04791"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1073.4818"
+           x="933.04791"
+           id="tspan3358"
+           sodipodi:role="line" /></text>
+    </g>
+  </g>
+</svg>

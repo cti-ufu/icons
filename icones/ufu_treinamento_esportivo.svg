@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="220"
+   height="220"
+   viewBox="0 0 219.99999 220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ufu_treinamento_esportivo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9590909"
+     inkscape:cx="78.24567"
+     inkscape:cy="140.79725"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-832.36216)">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 0 0 L 0 220 L 220 220 L 220 0 L 0 0 z M 128.04492 49.039062 L 146.50391 49.039062 C 148.0805 49.039063 149.39453 50.318291 149.39453 51.927734 L 149.39453 60.46875 C 149.39453 62.045347 148.11335 63.359375 146.50391 63.359375 L 143.31836 63.359375 L 143.31836 68.615234 C 153.00786 69.731991 161.843 73.574612 169.13477 79.355469 L 172.02539 76.464844 L 171.63086 76.070312 C 170.48126 74.953559 170.48126 73.114446 171.63086 71.964844 L 175.73633 67.859375 C 176.85308 66.709773 178.69218 66.709773 179.8418 67.859375 L 189.13867 77.154297 C 190.28827 78.271053 190.28827 80.110163 189.13867 81.259766 L 185.03125 85.365234 C 183.91449 86.51484 182.07538 86.51484 180.92578 85.365234 L 180.53125 84.970703 L 177.64258 87.861328 C 184.50735 96.598305 188.64453 107.63593 188.64453 119.5918 C 188.64453 147.90486 165.5865 170.96094 137.27344 170.96094 C 108.96038 170.96094 85.904297 147.90486 85.904297 119.5918 C 85.904297 107.63593 90.008633 96.598305 96.90625 87.861328 L 94.015625 84.970703 L 93.623047 85.365234 C 92.50629 86.51484 90.665227 86.51484 89.515625 85.365234 L 85.410156 81.259766 C 84.260554 80.143009 84.260554 78.303899 85.410156 77.154297 L 94.707031 67.859375 C 95.823791 66.709773 97.662898 66.709773 98.8125 67.859375 L 102.91797 71.964844 C 104.06757 73.0816 104.06757 74.920714 102.91797 76.070312 L 102.52344 76.464844 L 105.41406 79.355469 C 112.67298 73.607457 121.54096 69.764837 131.23047 68.615234 L 131.23047 63.359375 L 128.04492 63.359375 C 126.46832 63.359375 125.1543 62.078193 125.1543 60.46875 L 125.1543 51.927734 C 125.1543 50.351137 126.43548 49.039062 128.04492 49.039062 z M 137.27344 80.175781 C 115.52953 80.175781 97.826172 97.879138 97.826172 119.62305 C 97.826172 141.36695 115.52953 159.07227 137.27344 159.07227 C 159.01734 159.07227 176.72266 141.36695 176.72266 119.62305 C 176.72266 97.879138 159.01734 80.175781 137.27344 80.175781 z M 137.04492 90.6875 C 138.81859 90.6875 140.26367 92.099375 140.26367 93.873047 C 140.26367 95.646719 138.8518 97.091797 137.07812 97.091797 C 135.89568 97.124971 134.84353 96.468481 134.28516 95.515625 C 134.02239 95.055784 133.85742 94.497474 133.85742 93.90625 C 133.85742 92.132578 135.27125 90.6875 137.04492 90.6875 z M 150.16602 94.046875 C 150.63023 94.078403 151.09511 94.215421 151.5293 94.464844 C 153.07305 95.318834 153.63098 97.28828 152.74414 98.832031 C 151.89015 100.37578 149.9207 100.93371 148.37695 100.04688 C 147.88427 99.751588 147.48897 99.325433 147.19336 98.898438 C 146.63498 97.94591 146.56893 96.730752 147.16016 95.679688 C 147.71443 94.714843 148.68055 94.133539 149.70312 94.050781 C 149.85651 94.038368 150.01128 94.036366 150.16602 94.046875 z M 124.39648 94.261719 C 125.42869 94.325229 126.40666 94.878905 126.96094 95.84375 C 127.84777 97.354656 127.35466 99.326055 125.84375 100.21289 L 125.81055 100.21289 C 125.81055 100.24577 125.81019 100.24414 125.77734 100.24414 C 125.77734 100.27701 125.74609 100.27734 125.74609 100.27734 C 124.23519 101.16451 122.26343 100.67299 121.34375 99.128906 C 120.42407 97.618 120.95003 95.646602 122.46094 94.759766 C 122.49378 94.759766 122.4945 94.726562 122.52734 94.726562 C 122.52734 94.693687 122.55859 94.693359 122.55859 94.693359 C 123.1375 94.360796 123.77716 94.223614 124.39648 94.261719 z M 35.091797 95.744141 L 78.480469 95.744141 C 79.006001 95.744141 79.532347 95.876429 79.992188 96.007812 C 78.645511 99.226699 77.593344 102.57746 76.837891 105.92773 L 35.091797 105.92773 C 32.299906 105.92773 30 103.66067 30 100.83594 C 30 98.044043 32.26706 95.744141 35.091797 95.744141 z M 159.54492 103.39453 C 160.55407 103.45592 161.51183 104.01454 162.07227 104.94141 C 162.92626 106.38629 162.53187 108.19363 161.15234 109.14648 L 144.96094 120.54297 C 144.69817 122.87502 143.38426 125.0768 141.18359 126.39062 C 137.47202 128.5913 132.67528 127.34243 130.47461 123.63086 C 128.27394 119.91929 129.5228 115.1245 133.23438 112.92383 C 135.43504 111.64284 137.9966 111.5448 140.19727 112.43164 L 157.9668 103.72656 C 158.33631 103.5377 158.72385 103.43027 159.11133 103.39844 C 159.25663 103.38651 159.40076 103.38576 159.54492 103.39453 z M 114.98828 103.84961 C 115.45249 103.87976 115.91739 104.01177 116.35156 104.25195 C 117.92816 105.13879 118.4536 107.07735 117.59961 108.62109 C 116.74562 110.16486 114.77422 110.72277 113.23047 109.83594 C 112.70494 109.54065 112.31125 109.14539 112.01562 108.68555 C 111.45726 107.70017 111.42404 106.48502 111.98242 105.4668 C 112.53669 104.50195 113.50281 103.93466 114.52539 103.85352 C 114.67878 103.84134 114.83354 103.83956 114.98828 103.84961 z M 42.185547 114.56641 L 75.556641 114.56641 C 75.425261 116.24153 75.328125 117.91507 75.328125 119.62305 C 75.328125 121.3642 75.4249 123.07291 75.523438 124.74805 L 42.185547 124.74805 C 39.393656 124.74805 37.09375 122.44814 37.09375 119.65625 C 37.09375 116.86436 39.36081 114.56641 42.185547 114.56641 z M 137.41797 116.20508 C 135.84265 116.12964 134.35493 117.16009 133.92383 118.76953 C 133.46399 120.57605 134.54736 122.44872 136.38672 122.94141 C 138.19324 123.40125 140.06591 122.31788 140.55859 120.47852 C 141.01843 118.67199 139.93507 116.76681 138.0957 116.30664 C 137.86989 116.24916 137.64301 116.21585 137.41797 116.20508 z M 163.05859 116.24023 C 164.83227 116.24023 166.27734 117.65211 166.27734 119.42578 C 166.27734 121.16661 164.86547 122.64648 163.0918 122.64648 C 161.90935 122.64648 160.85721 122.02089 160.29883 121.06836 C 160.00322 120.57567 159.83984 120.05021 159.83984 119.45898 C 159.807 117.71816 161.25208 116.24023 163.05859 116.24023 z M 111.45703 116.73438 C 113.19786 116.73437 114.67578 118.14625 114.67578 119.91992 C 114.70863 121.69359 113.29675 123.13834 111.49023 123.13867 C 110.30779 123.17152 109.2576 122.51503 108.69922 121.5625 C 108.43645 121.10266 108.27148 120.57755 108.27148 119.98633 C 108.27148 118.21266 109.68336 116.76722 111.45703 116.73438 z M 159.91406 129.17383 C 160.38159 129.20399 160.85097 129.33599 161.28516 129.57617 C 162.8289 130.43016 163.35399 132.40156 162.5 133.94531 C 161.64601 135.48906 159.67461 136.04699 158.13086 135.16016 C 157.63817 134.89739 157.21198 134.46961 156.94922 134.00977 C 156.39084 133.02439 156.32479 131.84207 156.91602 130.79102 C 157.44976 129.82616 158.4199 129.25889 159.44922 129.17773 C 159.60362 129.16556 159.75822 129.16378 159.91406 129.17383 z M 115.27539 129.58594 C 116.30246 129.64526 117.28848 130.19535 117.86328 131.11914 C 118.75012 132.66289 118.257 134.63465 116.74609 135.52148 C 115.20234 136.44118 113.23059 135.9152 112.34375 134.4043 C 111.42407 132.89339 111.95003 130.92199 113.46094 130.03516 C 114.02753 129.6904 114.65915 129.55034 115.27539 129.58594 z M 50.857422 133.35352 L 76.871094 133.35352 C 77.626547 136.80232 78.709606 140.1206 80.023438 143.30664 C 79.530751 143.47087 79.038847 143.56836 78.480469 143.56836 L 50.857422 143.56836 C 48.065531 143.56836 45.765625 141.30325 45.765625 138.47852 C 45.765625 135.68661 48.032685 133.38672 50.857422 133.38672 L 50.857422 133.35352 z M 150.55078 138.66602 C 151.57785 138.72659 152.56387 139.27423 153.13867 140.21875 C 154.05835 141.72966 153.5324 143.70105 152.02148 144.58789 C 150.47774 145.50757 148.50793 145.01445 147.62109 143.4707 C 146.70141 141.9598 147.22738 139.9884 148.73828 139.10156 C 149.30487 138.76888 149.93454 138.62967 150.55078 138.66602 z M 124.80273 138.91602 C 125.26971 138.947 125.73769 139.08261 126.17188 139.33203 C 127.71562 140.21887 128.27551 142.15582 127.38867 143.73242 C 126.53468 145.24333 124.56328 145.80126 123.01953 144.94727 C 122.52684 144.65165 122.0987 144.22548 121.83594 143.76562 C 121.27757 142.81311 121.21346 141.59793 121.80469 140.54688 C 122.33843 139.58202 123.30857 139.00268 124.33789 138.91992 C 124.49229 138.90751 124.64708 138.90569 124.80273 138.91602 z M 137.50391 142.22266 C 139.27758 142.22266 140.72231 143.66669 140.68945 145.375 C 140.72231 147.14867 139.31078 148.59411 137.53711 148.62695 C 136.35466 148.65981 135.30447 148.00331 134.74609 147.05078 C 134.48333 146.59094 134.31836 146.06583 134.31836 145.47461 C 134.31836 143.70094 135.73022 142.2555 137.50391 142.22266 z "
+       transform="translate(-7.6293945e-6,832.36216)"
+       id="rect4636" />
+    <g
+       transform="matrix(1.8390805,0,0,1.8390805,29.999991,-913.01664)"
+       id="layer1-6"
+       inkscape:label="Camada 1">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3356"
+         y="1073.4818"
+         x="933.04791"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1073.4818"
+           x="933.04791"
+           id="tspan3358"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g3445"
+       transform="matrix(0.68816066,0,0,0.57794746,53.134888,399.0819)">
+      <g
+         transform="scale(1.1921147,0.83884546)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.41114807px;line-height:125%;font-family:'Kelson Sans BG';-inkscape-font-specification:'Kelson Sans BG, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3433" />
+    </g>
+    <g
+       transform="scale(1.0417585,0.95991538)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.26152706px;line-height:125%;font-family:'Kelson Sans';-inkscape-font-specification:'Kelson Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3441" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.74852371px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3518" />
+    <g
+       transform="matrix(0.57471264,0,0,0.57471264,81.538393,407.5563)"
+       id="layer1-9"
+       inkscape:label="Camada 1">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text3356-6" />
+    </g>
+    <g
+       id="g3597"
+       transform="matrix(2.1102437,0,0,2.1102437,29.999994,862.36256)"
+       style="fill:#ffffff">
+      <g
+         id="g3557"
+         style="fill:#ffffff" />
+      <g
+         id="g3561"
+         style="fill:#ffffff" />
+      <g
+         id="g3563"
+         style="fill:#ffffff" />
+      <g
+         id="g3565"
+         style="fill:#ffffff" />
+      <g
+         id="g3567"
+         style="fill:#ffffff" />
+      <g
+         id="g3569"
+         style="fill:#ffffff" />
+      <g
+         id="g3571"
+         style="fill:#ffffff" />
+      <g
+         id="g3573"
+         style="fill:#ffffff" />
+      <g
+         id="g3575"
+         style="fill:#ffffff" />
+      <g
+         id="g3577"
+         style="fill:#ffffff" />
+      <g
+         id="g3579"
+         style="fill:#ffffff" />
+      <g
+         id="g3581"
+         style="fill:#ffffff" />
+      <g
+         id="g3583"
+         style="fill:#ffffff" />
+      <g
+         id="g3585"
+         style="fill:#ffffff" />
+      <g
+         id="g3587"
+         style="fill:#ffffff" />
+      <g
+         id="g3589"
+         style="fill:#ffffff" />
+    </g>
+    <g
+       transform="matrix(0.53302611,0,0,0.53302611,-138.5561,307.92334)"
+       id="layer1-3"
+       inkscape:label="Camada 1"
+       style="fill:#000000">
+      <g
+         transform="matrix(0.31054775,0,0,0.31054775,20.000001,852.36216)"
+         id="g4185"
+         style="fill:#000000">
+        <g
+           id="g4139"
+           style="fill:#000000">
+          <g
+             id="g4141"
+             style="fill:#000000" />
+        </g>
+        <g
+           id="g4149"
+           style="fill:#000000" />
+        <g
+           id="g4151"
+           style="fill:#000000" />
+        <g
+           id="g4153"
+           style="fill:#000000" />
+        <g
+           id="g4155"
+           style="fill:#000000" />
+        <g
+           id="g4157"
+           style="fill:#000000" />
+        <g
+           id="g4159"
+           style="fill:#000000" />
+        <g
+           id="g4161"
+           style="fill:#000000" />
+        <g
+           id="g4163"
+           style="fill:#000000" />
+        <g
+           id="g4165"
+           style="fill:#000000" />
+        <g
+           id="g4167"
+           style="fill:#000000" />
+        <g
+           id="g4169"
+           style="fill:#000000" />
+        <g
+           id="g4171"
+           style="fill:#000000" />
+        <g
+           id="g4173"
+           style="fill:#000000" />
+        <g
+           id="g4175"
+           style="fill:#000000" />
+        <g
+           id="g4177"
+           style="fill:#000000" />
+      </g>
+      <g
+         transform="matrix(0.36372527,0,0,0.36372527,19.999788,852.36216)"
+         id="g5587"
+         style="fill:#000000">
+        <g
+           id="XMLID_211_"
+           style="fill:#000000" />
+        <g
+           id="g5551"
+           style="fill:#000000" />
+        <g
+           id="g5553"
+           style="fill:#000000" />
+        <g
+           id="g5555"
+           style="fill:#000000" />
+        <g
+           id="g5557"
+           style="fill:#000000" />
+        <g
+           id="g5559"
+           style="fill:#000000" />
+        <g
+           id="g5561"
+           style="fill:#000000" />
+        <g
+           id="g5563"
+           style="fill:#000000" />
+        <g
+           id="g5565"
+           style="fill:#000000" />
+        <g
+           id="g5567"
+           style="fill:#000000" />
+        <g
+           id="g5569"
+           style="fill:#000000" />
+        <g
+           id="g5571"
+           style="fill:#000000" />
+        <g
+           id="g5573"
+           style="fill:#000000" />
+        <g
+           id="g5575"
+           style="fill:#000000" />
+        <g
+           id="g5577"
+           style="fill:#000000" />
+        <g
+           id="g5579"
+           style="fill:#000000" />
+      </g>
+      <g
+         style="fill:#000000"
+         inkscape:label="Camada 1"
+         id="layer1-4"
+         transform="matrix(0.35333693,-0.13569772,0.13569772,0.35333693,-98.886859,488.84759)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="933.04791"
+           y="1073.4818"
+           id="text3356-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3358-9"
+             x="933.04791"
+             y="1073.4818" /></text>
+      </g>
+    </g>
+    <g
+       id="g4192"
+       transform="matrix(1.043422,0,0,1.043422,-4.7764195,-34.69608)">
+      <g
+         transform="matrix(0.29557701,0,0,-0.29557701,50.000159,960.79529)"
+         id="g4101">
+        <g
+           id="g4057">
+          <g
+             id="g4059" />
+        </g>
+        <g
+           id="g4065" />
+        <g
+           id="g4067" />
+        <g
+           id="g4069" />
+        <g
+           id="g4071" />
+        <g
+           id="g4073" />
+        <g
+           id="g4075" />
+        <g
+           id="g4077" />
+        <g
+           id="g4079" />
+        <g
+           id="g4081" />
+        <g
+           id="g4083" />
+        <g
+           id="g4085" />
+        <g
+           id="g4087" />
+        <g
+           id="g4089" />
+        <g
+           id="g4091" />
+        <g
+           id="g4093" />
+      </g>
+      <g
+         transform="matrix(3.511236,0,0,3.511236,54.406593,901.88197)"
+         id="g4170">
+        <g
+           id="g4123">
+          <g
+             id="g4125" />
+        </g>
+        <g
+           id="g4133" />
+        <g
+           id="g4135" />
+        <g
+           id="g4137" />
+        <g
+           id="g4139-5" />
+        <g
+           id="g4141-3" />
+        <g
+           id="g4143" />
+        <g
+           id="g4145" />
+        <g
+           id="g4147" />
+        <g
+           id="g4149-9" />
+        <g
+           id="g4151-1" />
+        <g
+           id="g4153-2" />
+        <g
+           id="g4155-3" />
+        <g
+           id="g4157-8" />
+        <g
+           id="g4159-1" />
+        <g
+           id="g4161-3" />
+      </g>
+    </g>
+    <g
+       id="g4237"
+       transform="matrix(0.52174589,0,0,0.52174589,-239.3468,677.75755)">
+      <g
+         id="Guides_For_Artboard_20_" />
+      <g
+         id="Artwork_19_" />
+    </g>
+    <g
+       id="g4250"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4252"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4254"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4256"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4258"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4260"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4262"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4264"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4266"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4268"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4270"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4272"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4274"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4276"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       id="g4278"
+       transform="translate(-494.43562,564.00949)" />
+    <g
+       transform="matrix(1.1224479,0,0,1.1224479,-737.54912,-139.16926)"
+       id="layer1-5"
+       inkscape:label="Camada 1"
+       style="fill:#000000">
+      <g
+         transform="matrix(0.31054775,0,0,0.31054775,20.000001,852.36216)"
+         id="g4185-1"
+         style="fill:#000000">
+        <g
+           id="g4139-2"
+           style="fill:#000000">
+          <g
+             id="g4141-4"
+             style="fill:#000000" />
+        </g>
+        <g
+           id="g4149-1"
+           style="fill:#000000" />
+        <g
+           id="g4151-7"
+           style="fill:#000000" />
+        <g
+           id="g4153-8"
+           style="fill:#000000" />
+        <g
+           id="g4155-9"
+           style="fill:#000000" />
+        <g
+           id="g4157-1"
+           style="fill:#000000" />
+        <g
+           id="g4159-9"
+           style="fill:#000000" />
+        <g
+           id="g4161-5"
+           style="fill:#000000" />
+        <g
+           id="g4163-4"
+           style="fill:#000000" />
+        <g
+           id="g4165-5"
+           style="fill:#000000" />
+        <g
+           id="g4167-4"
+           style="fill:#000000" />
+        <g
+           id="g4169-5"
+           style="fill:#000000" />
+        <g
+           id="g4171-9"
+           style="fill:#000000" />
+        <g
+           id="g4173-6"
+           style="fill:#000000" />
+        <g
+           id="g4175-1"
+           style="fill:#000000" />
+        <g
+           id="g4177-7"
+           style="fill:#000000" />
+      </g>
+      <g
+         transform="matrix(0.36372527,0,0,0.36372527,19.999788,852.36216)"
+         id="g5587-5"
+         style="fill:#000000">
+        <g
+           id="XMLID_211_-6"
+           style="fill:#000000" />
+        <g
+           id="g5551-2"
+           style="fill:#000000" />
+        <g
+           id="g5553-5"
+           style="fill:#000000" />
+        <g
+           id="g5555-5"
+           style="fill:#000000" />
+        <g
+           id="g5557-4"
+           style="fill:#000000" />
+        <g
+           id="g5559-1"
+           style="fill:#000000" />
+        <g
+           id="g5561-1"
+           style="fill:#000000" />
+        <g
+           id="g5563-1"
+           style="fill:#000000" />
+        <g
+           id="g5565-2"
+           style="fill:#000000" />
+        <g
+           id="g5567-7"
+           style="fill:#000000" />
+        <g
+           id="g5569-8"
+           style="fill:#000000" />
+        <g
+           id="g5571-0"
+           style="fill:#000000" />
+        <g
+           id="g5573-9"
+           style="fill:#000000" />
+        <g
+           id="g5575-4"
+           style="fill:#000000" />
+        <g
+           id="g5577-2"
+           style="fill:#000000" />
+        <g
+           id="g5579-6"
+           style="fill:#000000" />
+      </g>
+      <g
+         style="fill:#000000"
+         inkscape:label="Camada 1"
+         id="layer1-4-9"
+         transform="matrix(0.35333693,-0.13569772,0.13569772,0.35333693,-98.886859,488.84759)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="933.04791"
+           y="1073.4818"
+           id="text3356-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3358-7"
+             x="933.04791"
+             y="1073.4818" /></text>
+      </g>
+    </g>
+    <g
+       id="g4487"
+       transform="translate(85.151365,832.0138)">
+      <g
+         id="g4439">
+        <g
+           id="g4441">
+          <polygon
+             id="polygon4443"
+             points="75.088,159.938 75.1,159.95 75.115,159.938 " />
+        </g>
+      </g>
+      <g
+         id="g4451" />
+      <g
+         id="g4453" />
+      <g
+         id="g4455" />
+      <g
+         id="g4457" />
+      <g
+         id="g4459" />
+      <g
+         id="g4461" />
+      <g
+         id="g4463" />
+      <g
+         id="g4465" />
+      <g
+         id="g4467" />
+      <g
+         id="g4469" />
+      <g
+         id="g4471" />
+      <g
+         id="g4473" />
+      <g
+         id="g4475" />
+      <g
+         id="g4477" />
+      <g
+         id="g4479" />
+    </g>
+    <g
+       id="g4601"
+       transform="matrix(0.32845779,0,0,0.32845779,29.999992,862.36232)">
+      <g
+         id="g4529">
+        <g
+           id="g4531" />
+      </g>
+      <g
+         id="g4565" />
+      <g
+         id="g4567" />
+      <g
+         id="g4569" />
+      <g
+         id="g4571" />
+      <g
+         id="g4573" />
+      <g
+         id="g4575" />
+      <g
+         id="g4577" />
+      <g
+         id="g4579" />
+      <g
+         id="g4581" />
+      <g
+         id="g4583" />
+      <g
+         id="g4585" />
+      <g
+         id="g4587" />
+      <g
+         id="g4589" />
+      <g
+         id="g4591" />
+      <g
+         id="g4593" />
+    </g>
+  </g>
+</svg>

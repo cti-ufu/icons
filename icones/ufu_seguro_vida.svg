@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="62.08889mm"
+   height="62.08889mm"
+   viewBox="0 0 220 220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ufu_seguro_vida.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0461966"
+     inkscape:cx="73.886235"
+     inkscape:cy="86.154271"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-255.16926,-346.10076)">
+    <g
+       transform="translate(-185.30977,-160.23845)"
+       id="layer1-5"
+       inkscape:label="Camada 1"
+       style="fill:#000000">
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 0 0 L 0 220 L 220 220 L 220 0 L 0 0 z M 38.818359 30 L 163.51367 30 L 163.51367 147.41406 C 163.80782 147.38826 164.09894 147.35656 164.39844 147.35156 C 164.59333 147.34856 164.98472 147.34856 165.17969 147.35156 C 172.31538 147.47985 178.02344 153.48936 178.02344 160.68359 L 178.02344 164.57422 L 178.85547 164.57422 C 180.13634 164.57422 181.18164 165.89516 181.18164 167.52734 L 181.18164 187.03516 C 181.18164 188.66559 180.13625 190 178.85547 190 L 150.72461 190 C 149.44374 190 148.39844 188.66559 148.39844 187.03516 L 148.39844 167.52734 C 148.39844 165.89508 149.44383 164.57422 150.72461 164.57422 L 151.55664 164.57422 L 151.55664 160.68359 C 151.55664 158.53921 152.07163 156.50484 152.97266 154.69531 L 38.818359 154.69531 L 38.818359 30 z M 46.611328 37.792969 L 46.611328 146.90234 L 155.7207 146.90234 L 155.7207 37.792969 L 46.611328 37.792969 z M 84.681641 56.503906 C 91.193831 56.503906 97.060126 59.403576 101.16602 64.035156 C 105.27228 59.403576 111.1382 56.503906 117.65039 56.503906 C 130.06767 56.503906 140.13281 67.041886 140.13281 80.041016 C 140.13281 83.533636 139.49545 86.879126 138.50977 90.103516 C 137.96731 91.877826 136.74609 94.59375 136.74609 94.59375 C 127.26872 114.97614 101.16602 128.19141 101.16602 128.19141 C 101.16602 128.19141 75.063297 114.97632 65.585938 94.59375 C 64.756708 92.99956 63.820312 90.103516 63.820312 90.103516 C 62.788013 86.893966 62.199219 83.533636 62.199219 80.041016 C 62.199219 67.041886 72.264361 56.503906 84.681641 56.503906 z M 164.78906 152.85547 C 164.35352 152.85547 163.92992 152.9001 163.51367 152.9707 L 163.51367 154.69531 L 159.81445 154.69531 C 158.11612 156.13779 157.0332 158.29461 157.0332 160.68359 L 157.0332 164.57422 L 164.39844 164.57422 L 165.17969 164.57422 L 172.54688 164.57422 L 172.54688 160.68359 C 172.54688 156.39811 169.06315 152.85547 164.78906 152.85547 z M 164.39844 171.1875 C 162.56105 171.26172 161.11719 172.8688 161.11719 174.73828 C 161.11719 175.7248 161.4991 176.61678 162.1543 177.26172 L 162.1543 183.1582 C 162.1543 183.8332 162.71892 184.4043 163.39453 184.4043 L 166.18555 184.4043 C 166.86108 184.4043 167.42578 183.8332 167.42578 183.1582 L 167.42578 177.26172 C 168.08097 176.61678 168.46271 175.7248 168.46289 174.73828 C 168.46289 172.8688 167.01708 171.2617 165.17969 171.1875 C 164.98498 171.1795 164.59315 171.1795 164.39844 171.1875 z "
+         transform="translate(440.47903,506.33921)"
+         id="rect6146" />
+    </g>
+    <g
+       id="g4250"
+       transform="matrix(0.09753267,0,0,0.09753267,404.01726,498.02478)">
+      <g
+         id="g4208" />
+      <g
+         id="g4214" />
+      <g
+         id="g4216" />
+      <g
+         id="g4218" />
+      <g
+         id="g4220" />
+      <g
+         id="g4222" />
+      <g
+         id="g4224" />
+      <g
+         id="g4226" />
+      <g
+         id="g4228" />
+      <g
+         id="g4230" />
+      <g
+         id="g4232" />
+      <g
+         id="g4234" />
+      <g
+         id="g4236" />
+      <g
+         id="g4238" />
+      <g
+         id="g4240" />
+      <g
+         id="g4242" />
+    </g>
+    <g
+       id="g293713"
+       transform="matrix(0.16160796,0,0,0.16160796,297.96408,420.43841)"
+       style="fill:#ff0000">
+      <g
+         id="g293673"
+         style="fill:#ff0000" />
+      <g
+         id="g293677"
+         style="fill:#ff0000" />
+      <g
+         id="g293679"
+         style="fill:#ff0000" />
+      <g
+         id="g293681"
+         style="fill:#ff0000" />
+      <g
+         id="g293683"
+         style="fill:#ff0000" />
+      <g
+         id="g293685"
+         style="fill:#ff0000" />
+      <g
+         id="g293687"
+         style="fill:#ff0000" />
+      <g
+         id="g293689"
+         style="fill:#ff0000" />
+      <g
+         id="g293691"
+         style="fill:#ff0000" />
+      <g
+         id="g293693"
+         style="fill:#ff0000" />
+      <g
+         id="g293695"
+         style="fill:#ff0000" />
+      <g
+         id="g293697"
+         style="fill:#ff0000" />
+      <g
+         id="g293699"
+         style="fill:#ff0000" />
+      <g
+         id="g293701"
+         style="fill:#ff0000" />
+      <g
+         id="g293703"
+         style="fill:#ff0000" />
+      <g
+         id="g293705"
+         style="fill:#ff0000" />
+    </g>
+    <g
+       id="g293773"
+       transform="matrix(0.08019764,0,0,0.08019764,372.33747,506.43793)"
+       style="fill:#ff0000">
+      <g
+         id="g293733"
+         style="fill:#ff0000" />
+      <g
+         id="g293737"
+         style="fill:#ff0000" />
+      <g
+         id="g293739"
+         style="fill:#ff0000" />
+      <g
+         id="g293741"
+         style="fill:#ff0000" />
+      <g
+         id="g293743"
+         style="fill:#ff0000" />
+      <g
+         id="g293745"
+         style="fill:#ff0000" />
+      <g
+         id="g293747"
+         style="fill:#ff0000" />
+      <g
+         id="g293749"
+         style="fill:#ff0000" />
+      <g
+         id="g293751"
+         style="fill:#ff0000" />
+      <g
+         id="g293753"
+         style="fill:#ff0000" />
+      <g
+         id="g293755"
+         style="fill:#ff0000" />
+      <g
+         id="g293757"
+         style="fill:#ff0000" />
+      <g
+         id="g293759"
+         style="fill:#ff0000" />
+      <g
+         id="g293761"
+         style="fill:#ff0000" />
+      <g
+         id="g293763"
+         style="fill:#ff0000" />
+      <g
+         id="g293765"
+         style="fill:#ff0000" />
+    </g>
+  </g>
+</svg>
