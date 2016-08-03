@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="220"
+   height="220"
+   viewBox="0 0 219.99999 220"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ufu_fale_conosco.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0923932"
+     inkscape:cx="150.92165"
+     inkscape:cy="114.12305"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-832.36216)">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 0 0 L 0 220 L 220 220 L 220 0 L 0 0 z M 129.04688 66.908203 L 164.69531 66.908203 L 182.57422 84.714844 L 164.66016 84.714844 L 158.02734 91.345703 L 158.02734 123.93164 L 154.13477 127.82422 L 132.9043 127.82422 L 129.04688 123.9668 L 129.04688 66.908203 z M 119.82031 76.134766 L 119.82031 127.89648 L 129.04688 137.12305 L 150.20703 137.12305 L 162.0293 125.30078 L 162.0293 93.076172 L 166.60742 88.462891 L 186.25195 88.462891 L 190 92.138672 L 168.44531 92.138672 L 165.92188 94.664062 L 165.92188 127.2832 L 140.11328 153.0918 L 128.97656 153.0918 L 103.81641 127.89648 L 103.81641 92.138672 L 119.82031 76.134766 z M 84.085938 82.09375 C 84.650834 82.093971 85.217556 82.308911 85.648438 82.740234 C 98.553254 95.65322 98.548159 116.66961 85.636719 129.58789 C 85.205616 130.01899 84.639309 130.23438 84.074219 130.23438 C 83.50957 130.23437 82.944774 130.01855 82.513672 129.58789 C 81.651467 128.72591 81.651909 127.329 82.513672 126.4668 C 93.705338 115.26961 93.710434 97.053436 82.525391 85.861328 C 81.663627 84.998903 81.662965 83.600045 82.525391 82.738281 C 82.956603 82.3074 83.52104 82.093529 84.085938 82.09375 z M 74.314453 91.871094 C 74.879378 91.871342 75.444339 92.086365 75.875 92.517578 C 83.393135 100.04123 83.389736 112.28531 75.867188 119.8125 C 75.436085 120.2436 74.871952 120.46094 74.306641 120.46094 C 73.741991 120.46094 73.177196 120.24511 72.746094 119.81445 C 71.883889 118.95247 71.882377 117.55405 72.744141 116.69141 C 78.547137 110.88488 78.550534 101.44123 72.751953 95.638672 C 71.89019 94.776246 71.891481 93.3789 72.753906 92.517578 C 73.185009 92.086476 73.749528 91.870845 74.314453 91.871094 z M 170.31836 95.851562 L 189.85547 95.851562 L 189.85547 127.82422 L 164.625 153.0918 L 145.41211 153.0918 L 145.37695 153.05664 L 169.63477 128.79688 L 169.63477 96.537109 L 170.31836 95.851562 z M 66.0625 98.203125 C 66.627425 98.203318 67.192386 98.418176 67.623047 98.849609 C 71.654175 102.88361 71.654395 109.44842 67.623047 113.48242 C 67.192165 113.91419 66.625858 114.12891 66.060547 114.12891 C 65.496118 114.12891 64.932835 113.91503 64.501953 113.48438 C 63.639528 112.62239 63.638237 111.22353 64.5 110.36133 C 66.811795 108.04777 66.811574 104.28404 64.5 101.9707 C 63.638237 101.10828 63.639528 99.710931 64.501953 98.849609 C 64.933056 98.418507 65.497575 98.202932 66.0625 98.203125 z M 45.300781 98.542969 C 51.328489 98.542969 56.232422 103.45178 56.232422 109.48633 C 56.232422 115.26593 51.733782 120.01142 46.058594 120.40234 C 50.306928 120.56569 54.048665 122.1008 56.65625 124.76953 C 59.336016 127.51199 60.696835 131.30808 60.59375 135.75 C 60.565937 136.94905 59.587944 137.90625 58.388672 137.90625 L 32.212891 137.90625 C 31.013618 137.90625 30.033672 136.94861 30.005859 135.75 C 29.902554 131.30852 31.263814 127.51199 33.943359 124.76953 C 36.551606 122.09992 40.293751 120.56569 44.542969 120.40234 C 38.86756 120.01097 34.369141 115.26571 34.369141 109.48633 C 34.369141 103.45178 39.272632 98.542969 45.300781 98.542969 z "
+       transform="translate(-7.6293945e-6,832.36216)"
+       id="rect4809" />
+    <g
+       id="g3389"
+       transform="matrix(0.2,0,0,0.2,29.999992,862.36226)">
+      <g
+         id="g3339" />
+      <g
+         id="g3353" />
+      <g
+         id="g3355" />
+      <g
+         id="g3357" />
+      <g
+         id="g3359" />
+      <g
+         id="g3361" />
+      <g
+         id="g3363" />
+      <g
+         id="g3365" />
+      <g
+         id="g3367" />
+      <g
+         id="g3369" />
+      <g
+         id="g3371" />
+      <g
+         id="g3373" />
+      <g
+         id="g3375" />
+      <g
+         id="g3377" />
+      <g
+         id="g3379" />
+      <g
+         id="g3381" />
+    </g>
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.57567501px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4773" />
+    <g
+       id="g4193"
+       transform="matrix(4.5770518,0,0,4.5770518,29.999992,862.36216)">
+      <g
+         id="g4153" />
+      <g
+         id="g4157" />
+      <g
+         id="g4159" />
+      <g
+         id="g4161" />
+      <g
+         id="g4163" />
+      <g
+         id="g4165" />
+      <g
+         id="g4167" />
+      <g
+         id="g4169" />
+      <g
+         id="g4171" />
+      <g
+         id="g4173" />
+      <g
+         id="g4175" />
+      <g
+         id="g4177" />
+      <g
+         id="g4179" />
+      <g
+         id="g4181" />
+      <g
+         id="g4183" />
+      <g
+         id="g4185" />
+    </g>
+    <g
+       id="g4296"
+       transform="matrix(1.104354,0,0,1.104354,-7.1283846,-98.339261)">
+      <g
+         transform="matrix(0.19988026,0,0,0.19988026,33.61995,912.78703)"
+         id="g4260">
+        <g
+           id="g4214" />
+        <g
+           id="g4224" />
+        <g
+           id="g4226" />
+        <g
+           id="g4228" />
+        <g
+           id="g4230" />
+        <g
+           id="g4232" />
+        <g
+           id="g4234" />
+        <g
+           id="g4236" />
+        <g
+           id="g4238" />
+        <g
+           id="g4240" />
+        <g
+           id="g4242" />
+        <g
+           id="g4244" />
+        <g
+           id="g4246" />
+        <g
+           id="g4248" />
+        <g
+           id="g4250" />
+        <g
+           id="g4252" />
+      </g>
+      <g
+         style="fill:#000080"
+         transform="matrix(0.93202533,0,0,0.93202533,103.36714,42.15576)"
+         inkscape:label="Camada 1"
+         id="layer1-8">
+        <g
+           style="fill:#000080"
+           transform="matrix(1.8390805,0,0,1.8390805,29.999991,-913.01664)"
+           id="layer1-6"
+           inkscape:label="Camada 1">
+          <text
+             sodipodi:linespacing="125%"
+             id="text3356"
+             y="1073.4818"
+             x="933.04791"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               y="1073.4818"
+               x="933.04791"
+               id="tspan3358"
+               sodipodi:role="line" /></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
