@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="btEmailEncaminhar.svg"
+   inkscape:export-filename="/home/eroj/Imagens/Icones XCF/SVG/XLS.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="-3.001796"
+     inkscape:cy="8.3537724"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-grids="true"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6819" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3721">
+    <linearGradient
+       id="linearGradient6128"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6126" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6120"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#005300;stop-opacity:1;"
+         offset="0"
+         id="stop6118" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6082"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6080" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 16 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="14 : 16 : 1"
+       inkscape:persp3d-origin="16 : 10.666667 : 1"
+       id="perspective3753" />
+    <font
+       horiz-adv-x="1024"
+       id="font8081"
+       inkscape:label="Fonte 1">
+      <font-face
+         units-per-em="1024"
+         id="font-face8083"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph8085" />
+    </font>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter12643">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12633" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12635" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="114.4"
+         result="blur"
+         id="feGaussianBlur12637" />
+      <feOffset
+         dx="6"
+         dy="5.9"
+         result="offset"
+         id="feOffset12639" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12641" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter12643-5">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood12633-7" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite12635-3" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="114.4"
+         result="blur"
+         id="feGaussianBlur12637-2" />
+      <feOffset
+         dx="6"
+         dy="5.9"
+         result="offset"
+         id="feOffset12639-7" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite12641-2" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata3724">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="SombraBotao"
+     style="display:inline">
+    <path
+       style="display:inline;opacity:1;fill:#666666;fill-opacity:0.99607843;stroke:none;stroke-width:0.24000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39215686"
+       d="m 7.513864,1.3093592 h 18 c 3.324,0 6,2.676 6,6 V 25.309359 c 0,3.324 -2.676,6 -6,6 h -18 c -3.324,0 -6,-2.676 -6,-6 V 7.3093592 c 0,-3.324 2.676,-6 6,-6 z"
+       id="rect21207" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Botao"
+     style="display:inline">
+    <path
+       style="display:inline;opacity:1;fill:#0f306a;fill-opacity:0.99607843;stroke:none;stroke-width:0.24000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.39215686"
+       d="m 7,1 h 18 c 3.324,0 6,2.676 6,6 v 18 c 0,3.324 -2.676,6 -6,6 H 7 C 3.676,31 1,28.324 1,25 V 7 C 1,3.676 3.676,1 7,1 Z"
+       id="rect21204" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="SombraIcone"
+     style="display:inline">
+    <g
+       aria-label="E"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.11617088px;line-height:1.25;font-family:'Heydings Controls';-inkscape-font-specification:'Heydings Controls';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.60074204"
+       id="text21220">
+      <path
+         d="m 5.5250811,14.749086 -0.5696963,0.687564 4.3807677,3.712848 -4.4200571,4.989754 0.6679198,0.58934 5.6183838,-6.305948 h 3.88965 l 5.618384,6.305948 0.667919,-0.58934 -4.420057,-4.989754 4.380768,-3.712848 -0.569696,-0.687564 -4.420057,3.732492 -0.707209,-0.825077 -0.137513,-0.137513 H 15.308141 10.986307 10.78986 l -0.137513,0.137513 -0.7072089,0.825077 z M 12.990066,8.9146105 Q 11.359556,8.8949658 9.434376,10.25045 7.7645767,11.448777 4.7196484,14.591928 4.5232015,14.80802 4.5232015,15.083046 v 9.350876 q 0,0.29467 0.2160916,0.510762 0.2160917,0.196447 0.5107622,0.196447 H 21.044393 q 0.29467,0 0.510762,-0.196447 0.216091,-0.216092 0.216091,-0.510762 v -9.350876 q 0,-0.314315 -0.235736,-0.530407 -0.216092,-0.176802 -0.766143,-0.66792 -0.550052,-0.510762 -0.766143,-0.687564 -0.216092,-0.196447 -0.66792,-0.589341 Q 18.90312,12.21492 18.647739,12.018473 18.412003,11.802381 18.058398,11.507711 17.724439,11.21304 17.449413,10.996948 17.174387,10.780857 16.899361,10.564765 14.817023,9.012834 13.225803,8.9146105 q -0.117868,0 -0.235737,0 z m -0.176802,1.4340625 q 0.157158,-0.01964 0.314315,0 1.178682,0.07858 2.92706,1.375129 1.041169,0.785788 4.282544,3.693204 v 8.290062 H 5.9572644 v -8.329352 q 2.8091919,-2.868126 4.3218336,-3.948584 1.434063,-1.041169 2.534166,-1.080459 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.11617088px;font-family:'Heydings Icons';-inkscape-font-specification:'Heydings Icons';fill:#666666;stroke-width:0.60074204"
+         id="path852" />
+    </g>
+    <g
+       aria-label="&gt;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.780797px;line-height:1.25;font-family:'Heydings Controls';-inkscape-font-specification:'Heydings Controls';letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.26222655"
+       id="text848">
+      <path
+         d="m 26.516982,17.702108 v 1.32055 h -1.5092 v 2.683974 h 1.5092 v 1.346274 l 3.524324,-2.683974 z m -4.021674,1.32055 v 2.683974 h 0.334425 v -2.683974 z m 0.66885,0 v 2.683974 h 0.505925 v -2.683974 z m 0.84035,0 v 2.683974 h 0.668849 v -2.683974 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.780797px;font-family:'Heydings Controls';-inkscape-font-specification:'Heydings Controls';fill:#666666;stroke-width:0.26222655"
+         id="path855" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Icone"
+     style="display:inline;opacity:1">
+    <g
+       style="font-style:normal;font-weight:normal;font-size:10.95795727px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#008000;stroke-width:0.27200001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter12643)"
+       id="text8073" />
+    <g
+       aria-label="E"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.11617088px;line-height:1.25;font-family:'Heydings Controls';-inkscape-font-specification:'Heydings Controls';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.60074204"
+       id="text21213">
+      <path
+         d="m 5.2893447,14.560497 -0.5696962,0.687564 4.3807676,3.712848 -4.420057,4.989753 0.6679197,0.589341 5.6183832,-6.305948 h 3.889651 l 5.618383,6.305948 0.66792,-0.589341 -4.420057,-4.989753 4.380768,-3.712848 -0.569697,-0.687564 -4.420057,3.732492 -0.707209,-0.825077 -0.137513,-0.137513 h -0.196447 -4.321833 -0.196447 l -0.137513,0.137513 -0.7072092,0.825077 z M 12.75433,8.7260214 q -1.63051,-0.019645 -3.5556904,1.3358396 -1.6697993,1.198326 -4.7147275,4.341478 -0.196447,0.216092 -0.196447,0.491118 v 9.350876 q 0,0.29467 0.2160917,0.510762 0.2160917,0.196447 0.5107621,0.196447 H 20.808656 q 0.294671,0 0.510762,-0.196447 0.216092,-0.216092 0.216092,-0.510762 v -9.350876 q 0,-0.314316 -0.235736,-0.530407 -0.216092,-0.176803 -0.766144,-0.66792 -0.550051,-0.510762 -0.766143,-0.687564 -0.216091,-0.196447 -0.66792,-0.589341 -0.432183,-0.392894 -0.687564,-0.589341 -0.235736,-0.216092 -0.589341,-0.510762 -0.33396,-0.294671 -0.608986,-0.510763 -0.275025,-0.216091 -0.550051,-0.432183 -2.082338,-1.5519311 -3.673559,-1.6501546 -0.117868,0 -0.235736,0 z m -0.176802,1.4340626 q 0.157157,-0.01964 0.314315,0 1.178682,0.07858 2.92706,1.375129 1.041169,0.785788 4.282544,3.693203 v 8.290063 H 5.7215281 v -8.329352 q 2.8091918,-2.868126 4.3218339,-3.948584 1.434063,-1.041169 2.534166,-1.080459 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.11617088px;font-family:'Heydings Icons';-inkscape-font-specification:'Heydings Icons';fill:#ffffff;stroke-width:0.60074204"
+         id="path859" />
+    </g>
+    <g
+       aria-label="&gt;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.780797px;line-height:1.25;font-family:'Heydings Controls';-inkscape-font-specification:'Heydings Controls';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26222655"
+       id="text852">
+      <path
+         d="m 26.414082,17.619787 v 1.320549 h -1.509199 v 2.683974 h 1.509199 v 1.346275 l 3.524324,-2.683974 z m -4.021673,1.320549 v 2.683974 h 0.334424 v -2.683974 z m 0.668849,0 v 2.683974 h 0.505925 v -2.683974 z m 0.84035,0 v 2.683974 h 0.66885 v -2.683974 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.780797px;font-family:'Heydings Controls';-inkscape-font-specification:'Heydings Controls';fill:#ffffff;stroke-width:0.26222655"
+         id="path862" />
+    </g>
+  </g>
+</svg>
